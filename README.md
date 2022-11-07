@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @thinkingstranger
-- 👀 I’m interested in ... metavesre
-- 🌱 I’m currently learning ... code
-- 💞️ I’m looking to collaborate on ... code
-- 📫 How to reach me ... email me
+- 👀 I’m interested in ... Software Development
+- 🌱 I’m currently learning ... Advanced Python
+- 💞️ I’m looking to collaborate on ... Any Advanced Java or Python
+- 📫 How to reach me ... email me at hughtuckwell@outlook.com
 
 <!---
 thinkingstranger/thinkingstranger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
